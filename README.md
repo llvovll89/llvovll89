@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi im geon ho kim!🙌 Nice to meet you!
 
 <!--
 **llvovll89/llvovll89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
