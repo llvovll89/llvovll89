@@ -1,5 +1,4 @@
-### Hi im geon ho kim 🙌 
-### Nice to meet you ✨
+### Hi im geon ho kim , Nice to meet you ✨
 ### I`m Front-end Developer 😁
 
 #### - 💬 Ask me about ... : svvvs5579@naver.com
