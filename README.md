@@ -1,5 +1,6 @@
-### Hi im geon ho kim!🙌 Nice to meet you!
-<안녕하세요 신입 프론트엔드 개발자 김건호 입니다. />
+### Hi im geon ho kim!🙌 
+### Nice to meet you! ✨
+### <안녕하세요 신입 프론트엔드 개발자 김건호 입니다. />
 ### I`m Front-end Developer Geon ho Kim 😁
 
 #### - 💬 Ask me about ... : svvvs5579@naver.com
