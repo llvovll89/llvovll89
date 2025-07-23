@@ -13,6 +13,9 @@ I`m Front-end Developer 😁 <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=JavaScript&logoColor=white" />
   <br/>
   	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<a href="https://velog.io/@llvovll89/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+  </a>
 </div>
 
 <!--
