@@ -10,7 +10,8 @@ I`m Front-end Developer 😁 <br/>
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=JavaScript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Java-F09f?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/SpringBoot-61DAFB?style=flat&logo=JavaScript&logoColor=white" />
   <br/>
   	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<a href="https://velog.io/@llvovll89/posts" target="_blank">
