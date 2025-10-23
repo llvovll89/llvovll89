@@ -1,7 +1,7 @@
 Hi im geon ho kim , Nice to meet you ✨
 <br/>
-I`m Front-end Developer 😁 <br/>
-저는 프론트엔드 개발자 입니다 😎
+I`m Web Developer 😁 <br/>
+저는 웹 개발자 입니다 😎
 
 #### - 💬 Ask me about ... : svvvs5579@naver.com
 #### - ✔️ Plz Thanks a lot for your advice.
