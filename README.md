@@ -106,10 +106,10 @@ React · TypeScript 기반 프론트엔드를 중심으로, Spring Boot 백엔�
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=llvovll89&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llvovll89&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=llvovll89&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&ring_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llvovll89&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&ring_color=FFFFFF&hide_border=true&langs_count=6" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=llvovll89&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=llvovll89&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=110&section=footer" width="100%" alt="" />
