@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:A9FEF7&height=180&section=header&text=Geonho%20Kim&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Daegu,%20Korea&descAlignY=58&descSize=18" width="100%" alt="Geonho Kim" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Geonho%20Kim&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Daegu,%20Korea&descAlignY=58&descSize=18" width="100%" alt="Geonho Kim" />
 
 <a href="https://kimgeonho.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=520&lines=Hi+there,+I'm+Geonho+Kim!+%F0%9F%91%8B;Creative+Frontend+Developer;Design+%C3%97+Development" alt="Hi there, I'm Geonho Kim! 👋" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi+there,+I'm+Geonho+Kim!+%F0%9F%91%8B;Creative+Frontend+Developer;Design+%C3%97+Development" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F2328&center=true&vCenter=true&width=520&lines=Hi+there,+I'm+Geonho+Kim!+%F0%9F%91%8B;Creative+Frontend+Developer;Design+%C3%97+Development" alt="Hi there, I'm Geonho Kim! 👋" />
+  </picture>
 </a>
 
 <br />
@@ -109,4 +112,4 @@ React · TypeScript 기반 프론트엔드를 중심으로, Spring Boot 백엔�
   <img src="https://streak-stats.demolab.com/?user=llvovll89&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9FEF7,100:FE428E&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=110&section=footer" width="100%" alt="" />
